@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/react/css/main.e996756c.chunk.css",
+    "main.js": "/static/react/js/main.487bc578.chunk.js",
+    "main.js.map": "/static/react/js/main.487bc578.chunk.js.map",
+    "runtime~main.js": "/static/react/js/runtime~main.dacdcd41.js",
+    "runtime~main.js.map": "/static/react/js/runtime~main.dacdcd41.js.map",
+    "js/2.20ef152d.chunk.js": "/static/react/js/2.20ef152d.chunk.js",
+    "js/2.20ef152d.chunk.js.map": "/static/react/js/2.20ef152d.chunk.js.map",
+    "../../templates/index.html": "/static/react/../../templates/index.html",
+    "css/main.e996756c.chunk.css.map": "/static/react/css/main.e996756c.chunk.css.map",
+    "media/TravelMap.css": "/static/react/media/mapBack.363fa12e.png",
+    "media/spaceship.png": "/static/react/media/spaceship.4d290229.png",
+    "media/EndGame.css": "/static/react/media/stars.ac008d5c.png",
+    "precache-manifest.6d5e8dece72a4ce8a46714c21097a4c4.js": "/static/react/precache-manifest.6d5e8dece72a4ce8a46714c21097a4c4.js",
+    "service-worker.js": "/static/react/service-worker.js"
+  }
+}

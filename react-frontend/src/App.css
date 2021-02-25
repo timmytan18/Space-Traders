@@ -1,0 +1,43 @@
+#Main {
+  text-align: center;
+  background-color: #000000;
+  overflow: hidden;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#stars {
+  animation: starsMove infinite 25s linear;
+  background-image: url(./resources/stars.png);
+  background-size: 200vw;
+  height: 100vh;
+}
+
+#spaceship {
+  animation: moveUpDown infinite 5s ease-in-out;
+  height: 40vh;
+}
+
+@keyframes moveUpDown {
+  0% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-50px);
+  }
+
+  100% {
+    transform: translateY(0px)
+  }
+}
+
+@keyframes starsMove {
+  0% {
+    background-position: 100vw 0;
+  }
+
+  100% {
+    background-position: -100vw 0;
+  }
+}
